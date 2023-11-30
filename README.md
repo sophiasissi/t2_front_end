@@ -2,5 +2,5 @@
 
 Nesse projeto, foi desenvolvido um aplicativo que realiza consultas direcionadas a um serviço de condições climáticas. 
 
-Nome: Sophia Sissi Curcio Guedes
-RA: 23.01044-4
+Nomes e RAs: Lucca de Souza Oliveira - 23.01053-3
+Sophia Sissi Curcio Guedes - 23.01044-4
